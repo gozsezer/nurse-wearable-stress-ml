@@ -1,0 +1,8 @@
+data/
+*.csv
+*.xlsx
+*.sav
+*.pkl
+*.joblib
+.env
+__pycache__/
